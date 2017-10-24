@@ -1,0 +1,17 @@
+{
+  "name": "Half Right",
+  "identifier": "me.prkr.sketch.halfright",
+  "version": "0.0.0",
+  "description": "Position lines on half pixels so they take up a single pixel width/height",
+  "authorEmail": "parker.malenke@gmail.com",
+  "author": "Parker Malenke",
+  "commands": [
+    {
+      "script": "main.js",
+      "handler": "onRun",
+      "shortcut": "cmd shift \\",
+      "name": "Position on half pixels",
+      "identifier": "position_on_half"
+    }
+  ]
+}
